@@ -1,6 +1,7 @@
 # TrussC_prebuilt_jll
 
-**NOTE**: This repository is not registered in public package manager, so you need to add this via `pkg> add https://github.com/xxx/yyy.git` etc.
+> [!NOTE]
+> This repository is not registered in public package manager, so you need to add this via `pkg> add https://github.com/funatsufumiya/TrussC_prebuilt_jll.git` etc.
 
 ## Usage
 
