@@ -1,0 +1,14 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "440d071167c7a63e610e2029e80cf39a5998dd77"
+
+[[deps.Artifacts]]
+uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+version = "1.11.0"
+
+[[deps.TrussC_prebuilt_jll]]
+path = "."
+uuid = "e7cc2c53-7038-4b74-8b33-1c1d7e4a43f4"
+version = "0.1.0"
