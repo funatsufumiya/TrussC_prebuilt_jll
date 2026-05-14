@@ -1,5 +1,7 @@
 # TrussC_prebuilt_jll
 
+[TrussC](https://trussc.org/) prebuilt JLL for Julia
+
 > [!NOTE]
 > This repository is not registered in public package manager, so you need to add this via `pkg> add https://github.com/funatsufumiya/TrussC_prebuilt_jll.git` etc.
 
