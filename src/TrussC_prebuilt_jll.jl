@@ -7,14 +7,14 @@ function get_artifact_path()
 end
 
 function get_lib_path()
-    libtrussc_lib = "libTrussC.so"
+    libtrussc_lib = "libJlTrussC.so"
 
     @static if Sys.iswindows()
-        libtrussc_lib = "libTrussC.dll"
+        libtrussc_lib = "libJlTrussC.dll"
     elseif Sys.isapple()
-        libtrussc_lib = "libTrussC.dylib"
+        libtrussc_lib = "libJlTrussC.dylib"
     else
-        libtrussc_lib = "libTrussC.so"
+        libtrussc_lib = "libJlTrussC.so"
     end
 
     p = joinpath(get_artifact_path(), "lib", libtrussc_lib)
