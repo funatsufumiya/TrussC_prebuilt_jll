@@ -7,17 +7,17 @@ function get_artifact_path()
 end
 
 function get_lib_path()
-    libui_lib = "libTrussC.so"
+    libtrussc_lib = "libTrussC.so"
 
     @static if Sys.iswindows()
-        libui_lib = "libTrussC.dll"
+        libtrussc_lib = "libTrussC.dll"
     elseif Sys.isapple()
-        libui_lib = "libTrussC.dylib"
+        libtrussc_lib = "libTrussC.dylib"
     else
-        libui_lib = "libTrussC.so"
+        libtrussc_lib = "libTrussC.so"
     end
 
-    p = joinpath(get_artifact_path(), "lib", libui_lib)
+    p = joinpath(get_artifact_path(), "lib", libtrussc_lib)
     if isfile(p)
         return p
     else
