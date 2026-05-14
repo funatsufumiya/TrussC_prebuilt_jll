@@ -4,7 +4,7 @@
 
 ## Usage
 
-see https://github.com/funatsufumiya/TrussCTest.jl
+see https://github.com/funatsufumiya/TrussC.jl
 
 ```bash
 julia --project=@. -e 'using TrussC_prebuilt_jll; println(TrussC_prebuilt_jll.get_lib_path())'
