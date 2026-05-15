@@ -1,26 +1,26 @@
 [[TrussC_prebuilt_jll]]
-git-tree-sha1 = "58fd734b52473a656fdcd3472682aab898888bc3"
+git-tree-sha1 = "abb7fbc9a4ce499e3be53d7a570d86d05206c7d9"
 os = "macos"
 arch = "aarch64"
 
     [[TrussC_prebuilt_jll.download]]
-    sha256 = "2dfd862c5907008103582897fa2bbb0af0773d555cb315f82d56960c1068ca0d"
-    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.4/macos-aarch64.tar.gz"
+    sha256 = "ebd6538270395c2c51739ce059eccacf6b9e0d5f14bbe50bc70b4adb5d85e646"
+    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.5/macos-aarch64.tar.gz"
 
 [[TrussC_prebuilt_jll]]
-git-tree-sha1 = "c2f4abb069fc957a83dac93b468a83ce7dba263f"
+git-tree-sha1 = "fe03fedb09e343c6060238a87424bea64c492a9c"
 os = "linux"
 arch = "x86_64"
 
     [[TrussC_prebuilt_jll.download]]
-    sha256 = "9e88dd54028733a99141a44380051441854813d821dc91ebe2d9686b9e61b924"
-    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.4/linux-x86_64.tar.gz"
+    sha256 = "b830e072da6654197a9f620395aa71fa4b81b5479624d6db92f33cce514b2f82"
+    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.5/linux-x86_64.tar.gz"
 
 [[TrussC_prebuilt_jll]]
-git-tree-sha1 = "ec5e23eca82e6b1b08821518a905177af26b833a"
+git-tree-sha1 = "d94f1d0b7d3ebe97bc8f54b0c725f42996c96506"
 os = "windows"
 arch = "x86_64"
 
     [[TrussC_prebuilt_jll.download]]
-    sha256 = "e43b95eac183bff2cafb1128c0936965bd6d26001b7b8a28219e182fb591ecdf"
-    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.4/windows-x86_64.tar.gz"
+    sha256 = "24689f932a4cbc1ff422c238b6a380ba2166d599624eb6f61bc2cb73e3d2498a"
+    url = "https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl/releases/download/v0.2.5/windows-x86_64.tar.gz"

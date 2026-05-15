@@ -1,6 +1,6 @@
 name = "TrussC_prebuilt_jll"
 uuid = "cfe08a50-4fff-11f1-bfed-990c59676b1f"
-version = "0.2.4"
+version = "0.2.5"
 authors = ["Fumiya Funatsu <funatsu.fumiya@gmail.com>"]
 
 [deps]
